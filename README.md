@@ -14,6 +14,7 @@ Contact — alswns9288@gmail.com
 - 로컬 상점 웹계약 서버를 설계·개발해 상점 영입 리드타임 단축
 - FastAPI · LangGraph 기반 사내 업무 AI Agent와 계약관리 MCP 서버 개발 (Supervisor/서브그래프 오케스트레이션, A2A 라우팅, 개인정보 마스킹 표준화)
 - 선불 잔액 보정 자동화, Transactional Outbox 기반 이벤트 발행 설계, 조회 트래픽의 read replica 분산으로 페이먼트 운영 안정화
+- 페이먼트 RDS Graviton 전환과 Aurora MySQL 마이너 버전 업그레이드 수행
 
 **하이노크** · 제품개발팀 <sub>2024.06 – 2025.12</sub>
 - 기획·인프라·개발 조직이 없는 상태에서 배달·로컬커머스 플랫폼 '노크'를 설계해 약 6개월 만에 출시 (Spring Boot 모듈러 모놀리스, Axon, EKS)
