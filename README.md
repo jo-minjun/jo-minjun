@@ -11,7 +11,7 @@ Contact — alswns9288@gmail.com
 ### Experience
 
 **부릉(메쉬코리아)** · 핀테크팀 <sub>2026.01 – 2026.10</sub>
-- 로컬 상점 웹계약 서버를 설계·개발해 상점 영입 리드타임을 **약 7일 → 2일**로 단축
+- 로컬 상점 웹계약 서버를 설계·개발해 상점 영입 리드타임 단축
 - FastAPI · LangGraph 기반 사내 업무 AI Agent와 계약관리 MCP 서버 개발 (Supervisor/서브그래프 오케스트레이션, A2A 라우팅, 개인정보 마스킹 표준화)
 - 선불 잔액 보정 자동화, Transactional Outbox 기반 이벤트 발행 설계, 조회 트래픽의 read replica 분산으로 페이먼트 운영 안정화
 
